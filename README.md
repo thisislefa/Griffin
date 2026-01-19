@@ -4,6 +4,8 @@
 
 **Griffin** is a minimalist, metrics-focused about section component designed for agency websites, corporate pages, and portfolio "about us" sections. Featuring bold typography, strategic white space, and a clean two-column layout, Griffin effectively communicates brand experience while maintaining visual impact.
 
+<img width="1606" height="876" alt="_C__Users_STUDENT_Desktop_Projects_Granite_index html" src="https://github.com/user-attachments/assets/4001dc3a-2205-4b59-8ec0-ae6371ee90cc" />
+
 ## Live Demo
 
 [View Component](https://lefajmofokeng.github.io/Griffin/)
@@ -269,5 +271,6 @@ For implementation questions or customization requests:
 ---
 
 *Griffin provides a production-ready about section component that balances visual impact with semantic structure, making it suitable for integration into modern web projects.*
+
 
 
